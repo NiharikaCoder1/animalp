@@ -1,0 +1,29 @@
+body {
+    color: black;
+}
+
+#sca {
+    font-family: 'Fuzzy Bubbles', cursive;
+    background-color: rgb(98, 175, 197);
+    padding: 10px;
+    margin: 0;
+}
+
+#sca  p {
+    font-size: 18px;
+}
+
+
+#develop {
+    background-color: rgb(124, 194, 219);
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    margin: 0;
+    padding: 15px;
+}
+
+img {
+    width: 280px;
+    height: 250px;
+}
